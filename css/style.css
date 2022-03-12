@@ -305,7 +305,7 @@ section{
 }
 
 .c::after{
-  width: 30%;
+  width: 90%;
 }
 
 .mysql::after{
